@@ -5,7 +5,7 @@ public class Lesson1 {
 
         for (int i = 0; i < 20; i++) {
             if (i < 11) {
-                System.out.println("Hello Worid");
+                System.out.println("Hello World");
             } else {
                 System.out.println("Hello");
             }
